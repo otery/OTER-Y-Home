@@ -5,23 +5,23 @@
 <rect x="40" y="32" width="1920" height="2538" rx="92" fill="#0f1511"/><rect x="86" y="78" width="1828" height="2448" rx="54" fill="#f6f7e2"/>
 <circle cx="1000" cy="109" r="19" fill="#101512"/>
 <g fill="#151b17" opacity=".48">
-    <rect x="1629" y="150" width="8" height="12" rx="2"/>
-    <rect x="1644" y="144" width="8" height="18" rx="2"/>
-    <rect x="1659" y="137" width="8" height="25" rx="2"/>
-    <rect x="1674" y="130" width="8" height="32" rx="2"/>
+    <rect x="1646" y="150" width="8" height="12" rx="2"/>
+    <rect x="1661" y="144" width="8" height="18" rx="2"/>
+    <rect x="1676" y="137" width="8" height="25" rx="2"/>
+    <rect x="1691" y="130" width="8" height="32" rx="2"/>
     <g fill="none" stroke="#151b17" stroke-width="5" stroke-linecap="round">
-      <path d="M1702 143q22-20 44 0"/><path d="M1712 153q12-10 24 0"/>
-    </g><circle cx="1724" cy="160" r="4"/>
-    <text x="1784" y="159" font-family="Arial, Noto Sans CJK KR, sans-serif" font-size="24" text-anchor="end">72%</text>
-    <rect x="1796" y="133" width="58" height="30" rx="8" fill="none" stroke="#151b17" stroke-width="4"/>
-    <rect x="1858" y="141" width="6" height="14" rx="2"/>
-    <rect x="1802" y="139" width="33" height="18" rx="4"/>
+      <path d="M1696 143q22-20 44 0"/><path d="M1706 153q12-10 24 0"/>
+    </g><circle cx="1718" cy="160" r="4"/>
+    <text x="1799" y="159" font-family="Arial, Noto Sans CJK KR, sans-serif" font-size="24" text-anchor="end">72%</text>
+    <rect x="1818" y="133" width="48" height="30" rx="8" fill="none" stroke="#151b17" stroke-width="4"/>
+    <rect x="1870" y="141" width="6" height="14" rx="2"/>
+    <rect x="1824" y="139" width="26" height="18" rx="4"/>
   </g>
-<text x="214" y="313" transform="rotate(90 214 313)" font-family="Arial, Noto Sans CJK KR, sans-serif" font-weight="700" font-size="68" letter-spacing="5" fill="#151b17">OTER_Y</text>
+<text x="214" y="313" transform="rotate(90 214 313)" font-family="Arial, Noto Sans CJK KR, sans-serif" font-weight="700" font-size="68" letter-spacing="5" fill="#151b17">OTER.Y</text>
 <text x="1824" y="268" font-family="Arial, Noto Sans CJK KR, sans-serif" font-size="31" text-anchor="end" fill="#151b17" opacity=".34">It Runs Through Me (feat. De La Soul) …</text>
-<g stroke="#151b17" stroke-width="4.5" stroke-linecap="round"><line x1="1599" y1="342" x2="1599" y2="354"/><line x1="1617" y1="336" x2="1617" y2="360"/><line x1="1635" y1="340" x2="1635" y2="356"/><line x1="1653" y1="329" x2="1653" y2="367"/><line x1="1671" y1="320" x2="1671" y2="376"/><line x1="1689" y1="327" x2="1689" y2="369"/><line x1="1707" y1="337" x2="1707" y2="359"/><line x1="1725" y1="324" x2="1725" y2="372"/><line x1="1743" y1="333" x2="1743" y2="363"/></g><rect x="1783.6" y="320" width="10.64" height="56" rx="6" fill="#151b17"/><rect x="1804.04" y="320" width="10.64" height="56" rx="6" fill="#151b17"/>
+<g stroke="#151b17" stroke-width="4.5" stroke-linecap="round"><line x1="1709" y1="339" x2="1709" y2="357"/><line x1="1720" y1="330" x2="1720" y2="366"/><line x1="1731" y1="321" x2="1731" y2="375"/><line x1="1742" y1="333" x2="1742" y2="363"/><line x1="1753" y1="325" x2="1753" y2="371"/><line x1="1764" y1="337" x2="1764" y2="359"/></g><rect x="1783.6" y="320" width="10.64" height="56" rx="6" fill="#151b17"/><rect x="1804.04" y="320" width="10.64" height="56" rx="6" fill="#151b17"/>
 <g><circle cx="731.6800000000001" cy="588" r="20" fill="#e4e6d2" opacity="0.64"/><circle cx="857.6800000000001" cy="588" r="20" fill="#e4e6d2" opacity="0.64"/><circle cx="983.6800000000001" cy="588" r="20" fill="#e4e6d2" opacity="0.64"/><circle cx="1109.68" cy="588" r="20" fill="#e4e6d2" opacity="0.64"/><circle cx="1235.68" cy="588" r="20" fill="#e4e6d2" opacity="0.64"/><circle cx="1361.68" cy="588" r="20" fill="#e4e6d2" opacity="0.64"/><circle cx="1487.68" cy="588" r="20" fill="#151b17" opacity="1"/><circle cx="731.6800000000001" cy="700" r="20" fill="#151b17" opacity="1"/><circle cx="857.6800000000001" cy="700" r="20" fill="#151b17" opacity="1"/><circle cx="983.6800000000001" cy="700" r="20" fill="#151b17" opacity="1"/><circle cx="1109.68" cy="700" r="20" fill="#151b17" opacity="1"/><circle cx="1235.68" cy="700" r="20" fill="#151b17" opacity="1"/><circle cx="1361.68" cy="700" r="20" fill="#151b17" opacity="1"/><circle cx="1487.68" cy="700" r="20" fill="#151b17" opacity="1"/><circle cx="731.6800000000001" cy="812" r="20" fill="#151b17" opacity="1"/><circle cx="857.6800000000001" cy="812" r="20" fill="#151b17" opacity="1"/><circle cx="983.6800000000001" cy="812" r="20" fill="#151b17" opacity="1"/><circle cx="1109.68" cy="812" r="20" fill="#151b17" opacity="1"/><circle cx="1235.68" cy="812" r="20" fill="#151b17" opacity="1"/><circle cx="1361.68" cy="812" r="20" fill="#151b17" opacity="1"/><circle cx="1487.68" cy="812" r="20" fill="#151b17" opacity="1"/><circle cx="731.6800000000001" cy="924" r="20" fill="#151b17" opacity="1"/><circle cx="857.6800000000001" cy="924" r="20" fill="#151b17" opacity="1"/><circle cx="983.6800000000001" cy="924" r="20" fill="#151b17" opacity="1"/><circle cx="1109.68" cy="924" r="20" fill="#151b17" opacity="1"/><circle cx="1235.68" cy="924" r="20" fill="#151b17" opacity="1"/><circle cx="1361.68" cy="924" r="20" fill="#151b17" opacity="1"/><circle cx="1487.68" cy="924" r="20" fill="#151b17" opacity="1"/><circle cx="731.6800000000001" cy="1036" r="20" fill="#151b17" opacity="1"/><circle cx="857.6800000000001" cy="1036" r="20" fill="#151b17" opacity="1"/><circle cx="983.6800000000001" cy="1036" r="20" fill="#151b17" opacity="1"/><circle cx="1109.68" cy="1036" r="22" fill="#ff7138" opacity="1"/><circle cx="1235.68" cy="1036" r="20" fill="#151b17" opacity="1"/><circle cx="1361.68" cy="1036" r="20" fill="#151b17" opacity="1"/><circle cx="1487.68" cy="1036" r="20" fill="#151b17" opacity="1"/><circle cx="731.6800000000001" cy="1148" r="20" fill="#151b17" opacity="1"/><circle cx="857.6800000000001" cy="1148" r="20" fill="#151b17" opacity="1"/><circle cx="983.6800000000001" cy="1148" r="20" fill="#e4e6d2" opacity="0.64"/><circle cx="1109.68" cy="1148" r="20" fill="#e4e6d2" opacity="0.64"/><circle cx="1235.68" cy="1148" r="20" fill="#e4e6d2" opacity="0.64"/><circle cx="1361.68" cy="1148" r="20" fill="#e4e6d2" opacity="0.64"/><circle cx="1487.68" cy="1148" r="20" fill="#e4e6d2" opacity="0.64"/></g>
-<text x="190" y="1663" font-family="Arial, Noto Sans CJK KR, sans-serif" font-weight="700" font-size="82" letter-spacing="1" fill="#151b17">19:35<tspan font-size="52" font-weight="400" fill="#151b17" opacity=".18">:20</tspan></text>
+<text x="190" y="1663" font-family="Arial, Noto Sans CJK KR, sans-serif" font-weight="700" font-size="82" letter-spacing="1" fill="#151b17">19:35<tspan font-size="52" font-weight="400" fill="#a8aa9a">:20</tspan></text>
 <text x="1810" y="1663" font-family="Arial, Noto Sans CJK KR, sans-serif" font-size="52" letter-spacing="4" text-anchor="end" fill="#151b17" opacity=".17">08.26 WED</text>
 <g><rect x="188" y="1728" width="220" height="650" rx="22" fill="#f1f2dc" opacity=".48"/>
     <text x="298" y="1768" font-family="Arial, Noto Sans CJK KR, sans-serif" font-size="22" text-anchor="middle" fill="#151b17" opacity=".28">Spotify ↑</text>
@@ -68,23 +68,23 @@
 <rect x="2197" y="272" width="1354" height="2088" rx="104" fill="#0f1511"/><rect x="2250" y="330" width="1248" height="1972" rx="65" fill="#f6f7e2"/>
 <circle cx="2874" cy="358" r="16" fill="#101512"/>
 <g fill="#151b17" opacity=".48">
-    <rect x="3209" y="402" width="8" height="12" rx="2"/>
-    <rect x="3224" y="396" width="8" height="18" rx="2"/>
-    <rect x="3239" y="389" width="8" height="25" rx="2"/>
-    <rect x="3254" y="382" width="8" height="32" rx="2"/>
+    <rect x="3226" y="402" width="8" height="12" rx="2"/>
+    <rect x="3241" y="396" width="8" height="18" rx="2"/>
+    <rect x="3256" y="389" width="8" height="25" rx="2"/>
+    <rect x="3271" y="382" width="8" height="32" rx="2"/>
     <g fill="none" stroke="#151b17" stroke-width="5" stroke-linecap="round">
-      <path d="M3282 395q22-20 44 0"/><path d="M3292 405q12-10 24 0"/>
-    </g><circle cx="3304" cy="412" r="4"/>
-    <text x="3364" y="411" font-family="Arial, Noto Sans CJK KR, sans-serif" font-size="24" text-anchor="end">68%</text>
-    <rect x="3376" y="385" width="58" height="30" rx="8" fill="none" stroke="#151b17" stroke-width="4"/>
-    <rect x="3438" y="393" width="6" height="14" rx="2"/>
-    <rect x="3382" y="391" width="31" height="18" rx="4"/>
+      <path d="M3276 395q22-20 44 0"/><path d="M3286 405q12-10 24 0"/>
+    </g><circle cx="3298" cy="412" r="4"/>
+    <text x="3379" y="411" font-family="Arial, Noto Sans CJK KR, sans-serif" font-size="24" text-anchor="end">68%</text>
+    <rect x="3398" y="385" width="48" height="30" rx="8" fill="none" stroke="#151b17" stroke-width="4"/>
+    <rect x="3450" y="393" width="6" height="14" rx="2"/>
+    <rect x="3404" y="391" width="24" height="18" rx="4"/>
   </g>
-<text x="2322" y="500" font-family="Arial, Noto Sans CJK KR, sans-serif" font-weight="700" font-size="62" letter-spacing="4" fill="#151b17">OTER_Y</text>
+<text x="2322" y="500" font-family="Arial, Noto Sans CJK KR, sans-serif" font-weight="700" font-size="62" letter-spacing="4" fill="#151b17">OTER.Y</text>
 <text x="3428" y="540" font-family="Arial, Noto Sans CJK KR, sans-serif" font-size="23" text-anchor="end" fill="#151b17" opacity=".34">It Runs Through Me (feat. De La Soul) …</text>
-<g stroke="#151b17" stroke-width="3.2399999999999998" stroke-linecap="round"><line x1="3278" y1="600.68" x2="3278" y2="609.32"/><line x1="3290.96" y1="596.36" x2="3290.96" y2="613.64"/><line x1="3303.92" y1="599.24" x2="3303.92" y2="610.76"/><line x1="3316.88" y1="591.32" x2="3316.88" y2="618.68"/><line x1="3329.84" y1="584.84" x2="3329.84" y2="625.16"/><line x1="3342.8" y1="589.88" x2="3342.8" y2="620.12"/><line x1="3355.76" y1="597.08" x2="3355.76" y2="612.92"/><line x1="3368.72" y1="587.72" x2="3368.72" y2="622.28"/><line x1="3381.68" y1="594.2" x2="3381.68" y2="615.8"/></g><rect x="3407" y="585" width="7.6" height="40" rx="6" fill="#151b17"/><rect x="3421.6" y="585" width="7.6" height="40" rx="6" fill="#151b17"/>
+<g stroke="#151b17" stroke-width="3.2399999999999998" stroke-linecap="round"><line x1="3348" y1="598.52" x2="3348" y2="611.48"/><line x1="3355.92" y1="592.04" x2="3355.92" y2="617.96"/><line x1="3363.84" y1="585.56" x2="3363.84" y2="624.44"/><line x1="3371.76" y1="594.2" x2="3371.76" y2="615.8"/><line x1="3379.68" y1="588.44" x2="3379.68" y2="621.56"/><line x1="3387.6" y1="597.08" x2="3387.6" y2="612.92"/></g><rect x="3407" y="585" width="7.6" height="40" rx="6" fill="#151b17"/><rect x="3421.6" y="585" width="7.6" height="40" rx="6" fill="#151b17"/>
 <g><circle cx="2622" cy="785" r="14" fill="#e4e6d2" opacity="0.64"/><circle cx="2706" cy="785" r="14" fill="#e4e6d2" opacity="0.64"/><circle cx="2790" cy="785" r="14" fill="#e4e6d2" opacity="0.64"/><circle cx="2874" cy="785" r="14" fill="#e4e6d2" opacity="0.64"/><circle cx="2958" cy="785" r="14" fill="#e4e6d2" opacity="0.64"/><circle cx="3042" cy="785" r="14" fill="#e4e6d2" opacity="0.64"/><circle cx="3126" cy="785" r="14" fill="#151b17" opacity="1"/><circle cx="2622" cy="863" r="14" fill="#151b17" opacity="1"/><circle cx="2706" cy="863" r="14" fill="#151b17" opacity="1"/><circle cx="2790" cy="863" r="14" fill="#151b17" opacity="1"/><circle cx="2874" cy="863" r="14" fill="#151b17" opacity="1"/><circle cx="2958" cy="863" r="14" fill="#151b17" opacity="1"/><circle cx="3042" cy="863" r="14" fill="#151b17" opacity="1"/><circle cx="3126" cy="863" r="14" fill="#151b17" opacity="1"/><circle cx="2622" cy="941" r="14" fill="#151b17" opacity="1"/><circle cx="2706" cy="941" r="14" fill="#151b17" opacity="1"/><circle cx="2790" cy="941" r="14" fill="#151b17" opacity="1"/><circle cx="2874" cy="941" r="14" fill="#151b17" opacity="1"/><circle cx="2958" cy="941" r="14" fill="#151b17" opacity="1"/><circle cx="3042" cy="941" r="14" fill="#151b17" opacity="1"/><circle cx="3126" cy="941" r="14" fill="#151b17" opacity="1"/><circle cx="2622" cy="1019" r="14" fill="#151b17" opacity="1"/><circle cx="2706" cy="1019" r="14" fill="#151b17" opacity="1"/><circle cx="2790" cy="1019" r="14" fill="#151b17" opacity="1"/><circle cx="2874" cy="1019" r="14" fill="#151b17" opacity="1"/><circle cx="2958" cy="1019" r="14" fill="#151b17" opacity="1"/><circle cx="3042" cy="1019" r="14" fill="#151b17" opacity="1"/><circle cx="3126" cy="1019" r="14" fill="#151b17" opacity="1"/><circle cx="2622" cy="1097" r="14" fill="#151b17" opacity="1"/><circle cx="2706" cy="1097" r="14" fill="#151b17" opacity="1"/><circle cx="2790" cy="1097" r="14" fill="#151b17" opacity="1"/><circle cx="2874" cy="1097" r="15.400000000000002" fill="#ff7138" opacity="1"/><circle cx="2958" cy="1097" r="14" fill="#151b17" opacity="1"/><circle cx="3042" cy="1097" r="14" fill="#151b17" opacity="1"/><circle cx="3126" cy="1097" r="14" fill="#151b17" opacity="1"/><circle cx="2622" cy="1175" r="14" fill="#151b17" opacity="1"/><circle cx="2706" cy="1175" r="14" fill="#151b17" opacity="1"/><circle cx="2790" cy="1175" r="14" fill="#e4e6d2" opacity="0.64"/><circle cx="2874" cy="1175" r="14" fill="#e4e6d2" opacity="0.64"/><circle cx="2958" cy="1175" r="14" fill="#e4e6d2" opacity="0.64"/><circle cx="3042" cy="1175" r="14" fill="#e4e6d2" opacity="0.64"/><circle cx="3126" cy="1175" r="14" fill="#e4e6d2" opacity="0.64"/></g>
-<text x="2326" y="1345" font-family="Arial, Noto Sans CJK KR, sans-serif" font-weight="700" font-size="63" fill="#151b17">19:35<tspan font-size="39" font-weight="400" opacity=".18">:20</tspan></text>
+<text x="2326" y="1345" font-family="Arial, Noto Sans CJK KR, sans-serif" font-weight="700" font-size="63" fill="#151b17">19:35<tspan font-size="39" font-weight="400" fill="#a8aa9a">:20</tspan></text>
 <text x="3426" y="1345" font-family="Arial, Noto Sans CJK KR, sans-serif" font-size="34" letter-spacing="2" text-anchor="end" fill="#151b17" opacity=".17">08.26 WED</text>
 <g><rect x="2320" y="1410" width="185" height="760" rx="22" fill="#f1f2dc" opacity=".48"/>
     <text x="2412.5" y="1450" font-family="Arial, Noto Sans CJK KR, sans-serif" font-size="22" text-anchor="middle" fill="#151b17" opacity=".28">Spotify ↑</text>

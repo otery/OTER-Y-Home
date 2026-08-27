@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">OTER_Y Home</string>
+    <string name="app_name">OTER.Y Home</string>
     <string name="notification_listener_label">Music and notification bridge</string>
 </resources>

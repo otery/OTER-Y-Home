@@ -147,7 +147,7 @@ public class MainActivity extends Activity {
     void showSlotEditor(int slotIndex) {
         String[] actions = {"기본 앱 변경", "아래로 당길 앱 변경", "타일 위치 바꾸기", "보조 앱 해제"};
         new AlertDialog.Builder(this)
-                .setTitle("OTER_Y 패드 설정")
+                .setTitle("OTER.Y 패드 설정")
                 .setItems(actions, (dialog, which) -> {
                     if (which == 0) showAppPicker(slotIndex, false);
                     else if (which == 1) showAppPicker(slotIndex, true);
@@ -243,7 +243,7 @@ public class MainActivity extends Activity {
         if (isFinishing() || isNotificationListenerEnabled()) return;
         new AlertDialog.Builder(this)
                 .setTitle("음악과 알림 점 연결")
-                .setMessage("곡 제목·재생 상태·앱별 알림 표시를 홈 화면에 연결하려면 OTER_Y Home의 알림 접근을 허용해 주세요. 내용은 휴대폰 밖으로 전송되지 않습니다.")
+                .setMessage("곡 제목·재생 상태·앱별 알림 표시를 홈 화면에 연결하려면 OTER.Y Home의 알림 접근을 허용해 주세요. 내용은 휴대폰 밖으로 전송되지 않습니다.")
                 .setPositiveButton("설정 열기", (dialog, which) -> openNotificationAccessSettings())
                 .setNegativeButton("나중에", null)
                 .show();

@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "OTER_YHome"
+rootProject.name = "OTER.YHome"
 include ':app'

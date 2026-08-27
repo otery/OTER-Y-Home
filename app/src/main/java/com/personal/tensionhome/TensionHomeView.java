@@ -255,7 +255,7 @@ public class TensionHomeView extends View {
         float margin = dp(23);
 
         setText(dp(23), INK, true, 255);
-        drawTrackedText(canvas, "OTER_Y", margin, dp(54), dp(0.9f));
+        drawTrackedText(canvas, "OTER.Y", margin, dp(54), dp(0.9f));
         drawPlayControl(canvas, w - margin - dp(8), dp(108), dp(29));
 
         float gridY = Math.min(h * 0.25f, dp(205));
@@ -294,7 +294,7 @@ public class TensionHomeView extends View {
         for (int i = 4; i < tileRects.length; i++) tileRects[i].setEmpty();
 
         setText(coverProfile ? dp(23) : dp(29), INK, true, 255);
-        drawTrackedText(canvas, "OTER_Y / 02", margin, coverProfile ? dp(54) : dp(72), dp(0.8f));
+        drawTrackedText(canvas, "OTER.Y / 02", margin, coverProfile ? dp(54) : dp(72), dp(0.8f));
         drawPlayControl(canvas, w - margin - dp(8), coverProfile ? dp(108) : dp(118),
                 coverProfile ? dp(29) : dp(36));
 
@@ -351,7 +351,7 @@ public class TensionHomeView extends View {
         canvas.save();
         canvas.rotate(90f, x, y);
         setText(dp(28), INK, true, 255);
-        drawTrackedText(canvas, "OTER_Y", x, y, dp(1.1f));
+        drawTrackedText(canvas, "OTER.Y", x, y, dp(1.1f));
         canvas.restore();
     }
 
@@ -374,9 +374,11 @@ public class TensionHomeView extends View {
         int battery = statusBattery;
         boolean wifi = statusWifi;
 
+        // Four independently spaced groups: cellular, Wi-Fi, percentage, battery.
+        // The fixed right-edge offsets keep them from colliding on either Fold8 display.
         setText(coverProfile ? dp(7.2f) : dp(8.5f), INK, false, 118);
         paint.setTextAlign(Paint.Align.RIGHT);
-        canvas.drawText(Math.max(0, battery) + "%", right - dp(29), y + dp(2.5f), paint);
+        canvas.drawText(Math.max(0, battery) + "%", right - dp(31), y + dp(2.5f), paint);
 
         paint.setStyle(Paint.Style.STROKE);
         paint.setStrokeWidth(dp(1.3f));
@@ -391,7 +393,7 @@ public class TensionHomeView extends View {
                 batteryRect.left + dp(2.5f) + (batteryRect.width() - dp(5)) * level,
                 batteryRect.bottom - dp(2.5f), dp(1.2f), dp(1.2f), paint);
 
-        float wifiX = right - dp(48);
+        float wifiX = right - dp(61);
         paint.setStyle(Paint.Style.STROKE);
         paint.setStrokeWidth(dp(1.45f));
         paint.setAlpha(wifi ? 118 : 28);
@@ -400,7 +402,7 @@ public class TensionHomeView extends View {
         paint.setStyle(Paint.Style.FILL);
         canvas.drawCircle(wifiX, y + dp(5), dp(1.4f), paint);
 
-        float cellX = wifiX - dp(20);
+        float cellX = right - dp(91);
         paint.setAlpha(118);
         for (int i = 0; i < 4; i++) {
             canvas.drawRoundRect(cellX + i * dp(3.7f), y + dp(5) - dp(3 + i * 2),
@@ -431,8 +433,8 @@ public class TensionHomeView extends View {
         playRect.set(centerX - size, centerY - size, centerX + size, centerY + size);
         boolean showMedia = mediaPlaying && !mediaTitle.isEmpty();
         if (showMedia) {
-            drawSoundWave(canvas, centerX - size * 1.18f, centerY,
-                    size * 1.32f, size * 0.62f);
+            drawSoundWave(canvas, centerX - size * 0.52f, centerY,
+                    size * 0.64f, size * 0.62f);
         }
         if (mediaPlaying) {
             paint.setColor(INK);
@@ -465,7 +467,7 @@ public class TensionHomeView extends View {
     }
 
     private void drawSoundWave(Canvas canvas, float right, float centerY, float width, float height) {
-        int columns = coverProfile ? 8 : 10;
+        int columns = coverProfile ? 5 : 6;
         float gapX = width / Math.max(1, columns - 1);
         paint.setColor(INK);
         paint.setAlpha(255);
